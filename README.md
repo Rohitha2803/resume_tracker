@@ -14,7 +14,7 @@ Rezoome is an intelligent resume analysis tool built with Google's Gemini AI. It
 
 1. **Clone the repository**
 
-       git clone https://github.com/yourusername/resume-analyzer.git
+       https://github.com/Rohitha2803/resume_tracker.git
 
 3. **Install dependencies**
 
